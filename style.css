@@ -1,0 +1,25 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%; 
+}
+.che {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+.c1{
+    text-align: center;
+  text-transform: uppercase;
+  color: #505e51;
+  font-family: fantasy;
+}
